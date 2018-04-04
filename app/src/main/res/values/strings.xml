@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PekalonganUnggulanku</string>
+    <string name="lipsum"> isi dengan text dari lipsum.com </string>
+    <string name="title_activity_struktur">struktur</string>
+</resources>

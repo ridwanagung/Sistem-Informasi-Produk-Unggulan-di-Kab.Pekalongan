@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView31"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Potensi Kabupaten Pekalongan"
+            android:gravity="center"
+            android:textColor="@color/colorAccent"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:id="@+id/textView32"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorAccent"
+            android:text="1. Potensi Unggulan Batik
+Batik adalah merupakan salah satu  icon  Kabupaten Pekalongan, terdapat berbagai jenis batik di Kabupaten Pekalongan diantaranya adalah :
+a. batik tulis atau canting
+a. batik tenun
+b. batik cap
+c. batik sablon
+d. batik sutera
+e. batik pesisir
+
+Bahwa batik menjadi salah satu jenis usaha produktif yang cukup berkembang dan sangat potensial sekali untuk ditingkatkan serta dapat menarik iklim investasi potensi daerah Kabupaten Pekalongan. Ada 6.122 unit usaha produktif batik di Kabupaten Pekalongan dengan jumlah tenaga kerja 66.122 orang yang tersebar di wilayah Kecamatan Wiradesa, Tirto, Kedungwuni, Wonokerto, Buaran, Doro, Siwalan dan  Sragi.
+
+2. Potensi unggulan ATBM  kerajinan dari Eceng Gondok dan Akar Wangi
+ATBM (Alat Tenun Bukan Mesin) adalah merupakan alat tenun yang masih digunakan oleh para pengrajin yang ada di Kabupaten Pekalongan, ATBM digunakan untuk membuat kerajinan dari bahan eceng gondok dan akar wangi, kegiatan survey dilakukan di kecamatan buaran dan karangdadap.
+
+3. Potensi Unggulan Pariwisata
+Potensi unggulan pariwisata di Kabupaten Pekalongan sangat luar biasa dari kawasan pantai sampai daerah pegunungan, obyek wisata yang ada di Kabupaten Pekalogan adalah :
+a. Wisata linggo asri
+    • Pura (tempat ibadah agama hindu)
+    • Outbound centre
+b. Wisata pantai depok
+c. Wisata pantai wonokerto
+d. Wisata kampung batik
+e. Ekowisata petungkriyono
+f. Wisata Kabalong
+g. Wisata budaya kesenian tradisional
+
+Obyek wisata yang ada belum dikelolo secara maksimal dan keterlibatan pihak lain dalam pengelolaan obyek wisata itu sendiri belum dibangun, baik melalui biro perjalanan wisata atau pun media yang menjual tentang obyek wisata yang ada di Kabupaten Pekalongan. Keterlibatan para pihak dalam pengelolaan obyek wisata masih  perlu ditingkatkan dan melakukan kerjasama, keterbatasan anggaran merupakan kendala yang perlu diantasipasi, dengan adanya peran-peran para pihak dalam pengeloaan obyek wisata dapat memberikan warna dan percepatan serta peluang investasi yang sangat menguntungkan bagi pihak-pihak yang terlibat dalam pengeloaan obyek wisata tersebut.
+
+4. Potensi Unggulan Peternakan (Sapi)
+Masyarakat Kabupaten Pekalongan pada umumnya memiliki ternak yang diperihara, pemeliharan ternak ini menjadi tumpauan yang sangat menunjang bagi kehidupan masyarakat yang ada di Kabupaten Pekalongan, kegiatan beternat dijadikan sebagai tabungan oleh masyarakat untuk keperluan seperti biaya sekolah, hajatan bahkan untuk biaya kuliah dan lain-lain.
+
+Jenis ternak yang dipelihara oleh masyarakat sangat banyak seperti unggas (ayam, bebek dan angsa), sapi, kerbau, kambing dan domba, serta ada juga yang memelihara kuda sebagai angkutan dan babi.
+Ternak yang sangat potensi di kembangkan adalah ternak sapi dan kerbau, pakan yang tersedia cukup banyak dan mempunyai daya jual tinggi serta pasar yang cukup terbuka serta populasi yang tersebar di wilayah Kabupaten Pekalongan. Potensi unggulan peternakan yaitu pelaku peternak sapi yang ada di wilayah Kabipaten Pekalongan di kecamatan petungkriyono, kajen, kandangserang, kesesi, talun, paninggaran, karangdadap dan sragi.
+
+5. Potensi Unggulan Agro dan Hortikultura
+Wilayah Kabupaten Pekalongan secara geografis merupakan daerah tropis yang sangat kaya akan potensi tanaman buah dan sayuran, hampir setiap pekarangan dan kebun ditanami berbagai jenis tanaman seperti durian, mangga, rambutan, jambu biji, sawo, pete, jengkol, nangka dan manggis  serta tanaman kayu yang sudah biasa ditanam adalah pinus, jati, sengon, dll. Jenis tanaman lain seperti kopi, cengkeh, jeruk, pisang, menjadi hasil yang sangat pontesi dalam meningkatkan ekonomi bagi masyarakat, jenis produk lain ialah dari jenis tanaman sayuran untuk daerah pegunungan diantaranya jenis kentang, kol, cabe, melon, dll. Potensi ini masih dijual dalam bentuk mentah belum diolah menjadi produk yang dapat meningkatkan kehidupan masyarakat, peran pengepul sangat mendominasii terutama soal harga dan belum adanya sebuah wadah yang menampung hasil produksi tersebut dengan harga yang sesuai.
+
+6. Potensi Unggulan Perikanan (Tawar dan Laut)
+Potensi perikanan di Kabupaten Pekalongan memang sangat luar biasa, potensi perikanan laut yang sangat berlimpah serta tambak-tambak yang dikembangkan menambah kekayaan perikanan yang ada di wilayah ini. Perikanan air tawar di Wilayah Kabupaten Pekalongan  tersebar di seluruh Kecamatan, peluang usaha ini masih terdapat tempat yang sangat luas untuk pengembangan kegiatannya. Oleh karenanya usaha perikanan ini disamping berpotensi untuk usaha pengembangannya juga berpeluang investasi dalam usaha pengolahannya.
+" />
+    </LinearLayout>
+
+
+
+
+</ScrollView>

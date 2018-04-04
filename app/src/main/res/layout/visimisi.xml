@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <TextView
+        android:id="@+id/textView26"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Visi dan Misi
+        Bupati dan Wakil Bupati Pekalongan tahun 2016-2021"
+        android:textColor="@color/colorAccent"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/textView28"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="”Terwujudnya Masyarakat Kabupaten Pekalongan yang Sejahtera, Religius dan Berkleanjutan Berbasis Potensi Lokal”
+
+Rumusan visi tersebut terdiri dari 4 unsur frasa kalimat sebagai berikut :
+1. Terwujudnya Masyarakat Kabupaten Pekalongan yang Sejahtera.
+2. Terwujudnya Masyarakat Kabupaten Pekalongan yang Religius.
+3. Terwujudnya Pembangunan Kabupaten Pekalongan yang Berkelanjutan
+4. Potensi Lokal sebagai Basis Tercapainya Masyarakat Sejahtera Religius dan Berkelanjutan."
+        android:textColor="@color/colorAccent"
+        android:textSize="11sp" />
+
+    <TextView
+        android:id="@+id/textView27"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Visi Bupati dan Wakil Bupati Kabupaten Pekalongan adalah :"
+        android:textColor="@color/colorAccent"
+        android:textSize="13sp" />
+
+    <TextView
+        android:id="@+id/textView29"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Misi :"
+        android:textColor="@color/colorAccent"
+        android:textSize="13sp"/>
+
+    <TextView
+        android:id="@+id/textView30"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Misi adalah rumusan umum mengenai cara atau upaya yang perlu dilakukan untuk menjamin tercapainya visi. Dalam rangka mencapai visi Kabupaten Pekalongan, dirumuskan misi yang akan dilaksanakan sebagai berikut :
+
+Meningkatkan fasilitasi pembangunan sosial dan ekonomi kerakyatan berbasis pada UMKM, pertanian, peternakan dan perikanan.
+Mewujudkan rasa aman dan adil pada masyarakat.
+Meningkatkan pembangunan kehidupan keagamaan masyarakat yang lebih baik
+Menyelenggarakan birokrasi pemerintahan yang profesional, bersih dan berakhlak.
+Meningkatkan pembangunan infrastruktur yang berbasis pada pemerataan wilayah dan berwawasan lingkungan.
+Memantapkan potensi sosial budaya lokal untuk peningkatan daya saing daerah
+Mendorong iklim investasi yang berbasis pada potensi ekonomi daerah"
+        android:textColor="@color/colorAccent"
+        android:textSize="11sp"/>
+
+</LinearLayout>

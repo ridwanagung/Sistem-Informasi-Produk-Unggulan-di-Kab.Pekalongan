@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@drawable/batik"
+    android:padding="10dp" >
+
+
+    <!-- menampilkan widget searchview -->
+    <SearchView
+        android:id="@+id/search_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:iconifiedByDefault="false"
+        android:padding="2dp"
+        android:queryHint="Cari disini...." />
+
+
+    <!-- menampilkan listview -->
+    <?xml version="1.0" encoding="utf-8"?>
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="16dp" android:orientation="vertical">
+
+            <Button android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:text="Kecamatan Bojong" />
+
+            <Button android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:text="Kecamatan Buaran" />
+
+            <Button android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:text="Kecamatan Doro" />
+
+            <Button android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:text="Kecamatan Kajen" />
+
+            <Button android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:text="Kecamatan Kandangserang" />
+
+            <Button android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:text="Kecamatan Karanganyar" />
+
+            <Button android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:text="Kecamatan Karangdadap" />
+
+            <Button android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:text="Kecamatan Kedungwuni" />
+
+            <Button android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:text="Kecamatan Kesesi" />
+
+            <Button android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:text="Kecamatan Lebakbarang" />
+
+            <Button android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:text="Kecamatan Paninggaran" />
+
+            <Button android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:text="Kecamatan Petungkriono / Petungkriyono" />
+
+
+            <Button android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:text="Kecamatan Siwalan" />
+
+            <Button android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:text="Kecamatan Sragi" />
+
+            <Button android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:text="Kecamatan Talun" />
+
+            <Button android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:text="Kecamatan Tirto" />
+
+            <Button android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:text="Kecamatan Wiradesa" />
+
+            <Button android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:text="Kecamatan Wonokerto" />
+
+            <Button android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:text="Kecamatan Wonopringgo" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

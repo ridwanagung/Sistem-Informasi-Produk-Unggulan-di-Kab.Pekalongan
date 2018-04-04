@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tablelayoutid"
+            android:layout_marginTop="10dp">
+
+            <TableRow
+                android:id="@+id/rowlay"
+                android:background="@android:color/holo_blue_light"
+                android:padding="5dp">
+                <TextView
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content"
+
+                    android:text="No" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.1"
+                    android:gravity="center"
+                    android:text="Nama" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="Jabatan" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#ECEFF1"
+                android:padding="5dp">
+
+                <TextView
+                    android:textSize="12sp"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content"
+                    android:text="1" />
+
+                <TextView
+                    android:textSize="12sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.1"
+                    android:text="Dra. Mukaromah Syakoer, MM" />
+
+                <TextView
+                    android:textSize="12sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginLeft="5dp"
+                    android:text="Sekretaris Daerah / Eselon II.a" />
+            </TableRow>
+
+            <TableRow
+                android:background="#ECEFF1"
+                android:padding="5dp">
+                <TextView
+                    android:textSize="12sp"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content"
+                    android:text="2" />
+                <TextView
+                    android:textSize="12sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.1"
+                    android:text="Drs. Ali Riza M.Si" />
+                <TextView
+                    android:textSize="12sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginLeft="5dp"
+                    android:text="Asisten Pemerintahan dan Kesejahteraan Rakyat Sekda / Eselon II.b" />
+            </TableRow>
+
+            <TableRow
+                android:background="#ECEFF1"
+                android:padding="5dp">
+                <TextView
+                    android:textSize="12sp"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content"
+                    android:text="3" />
+                <TextView
+                    android:textSize="12sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.1"
+                    android:text="Ir. Bambang Guritno" />
+                <TextView
+                    android:textSize="12sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Asisten Administrasi Sekda / Eselon II.b" />
+            </TableRow>
+
+            <TableRow
+                android:background="#ECEFF1"
+                android:padding="5dp">
+                <TextView
+                    android:textSize="12sp"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content"
+                    android:text="4" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.1"
+                    android:text="Hari Suminto, SH, MH"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:textSize="12sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginLeft="5dp"
+                    android:text="Asisten Ekonomi dan Pembangunan Sekda / Eselon II.b" />
+            </TableRow>
+
+            <TableRow
+                android:background="#ECEFF1"
+                android:padding="5dp">
+                <TextView
+                    android:textSize="12sp"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content"
+                    android:text="5" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.1"
+                    android:text="Drs. Amat Rosyidin, SH. M.Si"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:textSize="12sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginLeft="5dp"
+                    android:text="Staf Ahli Bupati Pekalongan Bidang Pemerintahan, Hukum dan Politik / Eselon II.b" />
+            </TableRow>
+
+            <TableRow
+                android:background="#ECEFF1"
+                android:padding="5dp">
+                <TextView
+                    android:textSize="12sp"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content"
+                    android:text="5" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.1"
+                    android:text="Drs. Amat Rosyidin, SH. M.Si"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:textSize="12sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginLeft="5dp"
+                    android:text="Staf Ahli Bupati Pekalongan Bidang Pemerintahan, Hukum dan Politik / Eselon II.b" />
+            </TableRow>
+
+            <TableRow
+                android:background="#ECEFF1"
+                android:padding="5dp">
+                <TextView
+                    android:textSize="12sp"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content"
+                    android:text="6" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.1"
+                    android:text="Ir. Sumarno"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:textSize="12sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginLeft="5dp"
+                    android:text="Staf Ahli Bupati Pekalongan Bidang Pembangunan, Ekonomi dan Keuangan / Eselon II.b" />
+            </TableRow>
+
+            <TableRow
+                android:background="#ECEFF1"
+                android:padding="5dp">
+                <TextView
+                    android:textSize="12sp"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content"
+                    android:text="7" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.1"
+                    android:text="Ir. Teguh Isdaryanto"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:textSize="12sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginLeft="5dp"
+                    android:text="Staf Ahli Bupati Pekalongan Bidang kemasyarakatan dan Sumber Daya Manusia /Eselon II.b" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#ECEFF1"
+                android:padding="5dp">
+
+                <TextView
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content"
+                    android:text="8"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.1"
+                    android:text="Mohamad Zaki, SIP"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="1"
+                    android:text="Sekretaris Dewan Perwakilan Rakyat Daerah / Eselon II.b"
+                    android:textSize="12sp" />
+            </TableRow>
+
+            <TableRow
+                android:background="#ECEFF1"
+                android:padding="5dp">
+                <TextView
+                    android:textSize="12sp"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content"
+                    android:text="9" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.1"
+                    android:text="Drs. Umaidi, M.Si"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:textSize="12sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginLeft="5dp"
+                    android:text="Inspektur Kabupaten Pekalongan / Eselon II.b" />
+            </TableRow>
+
+            <TableRow
+                android:background="#ECEFF1"
+                android:padding="5dp">
+                <TextView
+                    android:textSize="12sp"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content"
+                    android:text="10" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.1"
+                    android:text="Ir. Bambang Irianto, M. Si"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:textSize="12sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginLeft="5dp"
+                    android:text="Kepala Badan Perencanaan Pembangunan Daerah dan Penelitian dan Pengembangan / Eselon II.b" />
+            </TableRow>
+
+        </TableLayout>
+
+    </RelativeLayout>
+
+
+</ScrollView>
